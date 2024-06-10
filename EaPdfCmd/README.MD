@@ -16,7 +16,7 @@ Museum and Library Services (IMLS), grant number [LG-250129-OLS-21](https://www.
 
 ## Installation
 
-The latest version of the application can be downloaded from the [GitHub](https://github.com/orgs/UIUCLibrary/packages?repo_name=ea-pdf). The application is distributed 
+The latest version of the application can be downloaded from the [GitHub](https://github.com/UIUCLibrary/ea-pdf/tags). The application is distributed 
 as a zip file that contains the executable and all required library dependencies. The executable is 
 [framework-dependent and cross-platform](https://learn.microsoft.com/en-us/dotnet/core/deploying/); however, it has currently only been tested on Windows 10. The file 
 can be unzipped into a folder or directory of your choice. You may want to add this directory to your system's 
